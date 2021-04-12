@@ -1,0 +1,8 @@
+com/cognizant/insurance/model/AuthResponseTest.class
+com/cognizant/insurance/model/InsurerDetailTest.class
+com/cognizant/insurance/model/PatientDetailTest.class
+com/cognizant/insurance/service/InsuranceClaimServiceImplTest.class
+com/cognizant/insurance/InsuranceClaimMicroserviceApplicationTests.class
+com/cognizant/insurance/model/TreatmentPlanTest.class
+com/cognizant/insurance/model/InitiateClaimTest.class
+com/cognizant/insurance/controller/InsuranceClaimControllerTest.class

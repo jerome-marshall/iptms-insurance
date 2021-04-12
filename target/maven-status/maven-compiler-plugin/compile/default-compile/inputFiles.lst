@@ -1,0 +1,17 @@
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/model/InsurerDetail.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/SwaggerConfig.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/exception/InvalidTokenException.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/model/TreatmentPlan.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/client/FeignCallService.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/repository/InitiateClaimRepository.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/controller/InsuranceClaimController.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/model/AuthResponse.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/client/AuthClient.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/model/PatientDetail.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/exception/GlobalExceptionHandler.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/service/InsuranceClaimService.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/repository/InsurerDetailRepository.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/InsuranceClaimMicroserviceApplication.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/exception/InsurerDetailNotFoundException.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/service/InsuranceClaimServiceImpl.java
+/Users/suvankar/Downloads/Final backup IPMS/insurance-claim-microservice/src/main/java/com/cognizant/insurance/model/InitiateClaim.java
